@@ -28,10 +28,13 @@ Trigger of the test cases
     - CucumberOptions annotation provides the required test configuration.
     - generateReport() method generates the report from the json file generated.
 
-
 Running of the project
 ----------------------------------------------------------------------------------
     - Gradle wrapper can be used to run the project
 
         > ./gradlew --debug clean test (On Mac/Linux)
+
+Reports path
+----------------------------------------------------------------------------------
+    out/cucumber-html-reports/overview-features.html
 

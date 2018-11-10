@@ -35,5 +35,8 @@ jobs:
     # run tests!
     - run: gradle --debug clean test
 
+    - store_artifacts:
+          path: /out/cucumber-html-reports
+
 
 

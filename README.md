@@ -1,5 +1,6 @@
 Build Status
 ----------------------------------------------------------------------------------
+[![CircleCI](https://circleci.com/gh/RajAsapu/myStoreManager-service.svg?style=svg)](https://circleci.com/gh/RajAsapu/myStoreManager-service)
 
 Tech Stack
 ----------------------------------------------------------------------------------
